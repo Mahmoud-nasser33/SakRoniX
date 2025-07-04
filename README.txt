@@ -1,4 +1,4 @@
-# ⚔️ SakRoniX Security Toolkit
+# ⚔️ SakRoniX
 
 🔐 **SakRoniX** is a **powerful, all-in-one security suite** crafted for penetration testers, ethical hackers, and security professionals.
 Bringing together **20+ industry-standard tools** like Nmap, Wireshark, Ettercap, and more,
