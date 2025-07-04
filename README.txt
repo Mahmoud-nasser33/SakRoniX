@@ -35,4 +35,4 @@ SakRoniX turns complex security tasks into an efficient, streamlined process —
 
 to run the program:-
 the command is 
-(sudo python3 SakRonix.py)
+(sudo python3 SakRoniX.py)
