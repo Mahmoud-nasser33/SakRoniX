@@ -32,3 +32,7 @@ SakRoniX offers a unified GUI interface for seamless network reconnaissance, tra
 ---
 
 SakRoniX turns complex security tasks into an efficient, streamlined process — empowering you to **work faster, smarter, and more effectively.** 🚀
+
+to run the program:-
+the command is 
+(sudo python3 SakRonix.py)
